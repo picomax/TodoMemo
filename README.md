@@ -21,7 +21,7 @@ TableView와 TextField를 학습하기 위한 간단한 테스트 앱
 
 ## 라이선스
 
-Copyright (c) 2015, [Jeong-Hoon Mo](https://github.com/picomax).
+Copyright (c) 2016, [Jeong-Hoon Mo](https://github.com/picomax).
 All rights reserved.
 
 [http://picomax.net/73336](http://picomax.net/73336)
