@@ -10,10 +10,10 @@ TableView와 TextField를 학습하기 위한 간단한 테스트 앱
 
 ## 스크린샷
 
-![](http://www.picomax.net/xe/files/attach/images/207/336/073/95854a621d4bc190311c1fd8d488a1a2.png)
-![](http://www.picomax.net/xe/files/attach/images/207/336/073/4edf4340c3319ffdd8fb135b96c7d357.png)
-![](http://www.picomax.net/xe/files/attach/images/207/336/073/4930941dbda645ac4298a8740482c752.png)
-![](http://www.picomax.net/xe/files/attach/images/207/336/073/6651f264f702b32b811dc7b26e752a5e.png)
+![](https://raw.githubusercontent.com/picomax/TodoMemo/master/Screenshot01.png)
+![](https://raw.githubusercontent.com/picomax/TodoMemo/master/Screenshot02.png)
+![](https://raw.githubusercontent.com/picomax/TodoMemo/master/Screenshot03.png)
+![](https://raw.githubusercontent.com/picomax/TodoMemo/master/Screenshot04.png)
 
 ## 현재 상태
 
